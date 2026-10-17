@@ -1,4 +1,5 @@
 //fig02_01.cpp
+//c++ program to print out the text message
 
 #include <iostream>
 

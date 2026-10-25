@@ -69,28 +69,28 @@ include CMakeFiles/unit3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/unit3.dir/flags.make
 
-CMakeFiles/unit3.dir/src/fig03_003.cpp.o: CMakeFiles/unit3.dir/flags.make
-CMakeFiles/unit3.dir/src/fig03_003.cpp.o: /home/sam/c++_deepLearn/unit3/src/fig03_003.cpp
-CMakeFiles/unit3.dir/src/fig03_003.cpp.o: CMakeFiles/unit3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sam/c++_deepLearn/unit3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unit3.dir/src/fig03_003.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unit3.dir/src/fig03_003.cpp.o -MF CMakeFiles/unit3.dir/src/fig03_003.cpp.o.d -o CMakeFiles/unit3.dir/src/fig03_003.cpp.o -c /home/sam/c++_deepLearn/unit3/src/fig03_003.cpp
+CMakeFiles/unit3.dir/src/fig03_006.cpp.o: CMakeFiles/unit3.dir/flags.make
+CMakeFiles/unit3.dir/src/fig03_006.cpp.o: /home/sam/c++_deepLearn/unit3/src/fig03_006.cpp
+CMakeFiles/unit3.dir/src/fig03_006.cpp.o: CMakeFiles/unit3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sam/c++_deepLearn/unit3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unit3.dir/src/fig03_006.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unit3.dir/src/fig03_006.cpp.o -MF CMakeFiles/unit3.dir/src/fig03_006.cpp.o.d -o CMakeFiles/unit3.dir/src/fig03_006.cpp.o -c /home/sam/c++_deepLearn/unit3/src/fig03_006.cpp
 
-CMakeFiles/unit3.dir/src/fig03_003.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/unit3.dir/src/fig03_003.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sam/c++_deepLearn/unit3/src/fig03_003.cpp > CMakeFiles/unit3.dir/src/fig03_003.cpp.i
+CMakeFiles/unit3.dir/src/fig03_006.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/unit3.dir/src/fig03_006.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sam/c++_deepLearn/unit3/src/fig03_006.cpp > CMakeFiles/unit3.dir/src/fig03_006.cpp.i
 
-CMakeFiles/unit3.dir/src/fig03_003.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/unit3.dir/src/fig03_003.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sam/c++_deepLearn/unit3/src/fig03_003.cpp -o CMakeFiles/unit3.dir/src/fig03_003.cpp.s
+CMakeFiles/unit3.dir/src/fig03_006.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/unit3.dir/src/fig03_006.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sam/c++_deepLearn/unit3/src/fig03_006.cpp -o CMakeFiles/unit3.dir/src/fig03_006.cpp.s
 
 # Object files for target unit3
 unit3_OBJECTS = \
-"CMakeFiles/unit3.dir/src/fig03_003.cpp.o"
+"CMakeFiles/unit3.dir/src/fig03_006.cpp.o"
 
 # External object files for target unit3
 unit3_EXTERNAL_OBJECTS =
 
-unit3: CMakeFiles/unit3.dir/src/fig03_003.cpp.o
+unit3: CMakeFiles/unit3.dir/src/fig03_006.cpp.o
 unit3: CMakeFiles/unit3.dir/build.make
 unit3: CMakeFiles/unit3.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/sam/c++_deepLearn/unit3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable unit3"

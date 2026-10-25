@@ -1,4 +1,4 @@
-!#bin/bash
+#!/bin/bash
 cd unit3
 cd build 
 cmake ..

@@ -129,29 +129,29 @@ unit3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/build
 .PHONY : unit3/fast
 
-src/fig03_003.o: src/fig03_003.cpp.o
-.PHONY : src/fig03_003.o
+src/fig03_006.o: src/fig03_006.cpp.o
+.PHONY : src/fig03_006.o
 
 # target to build an object file
-src/fig03_003.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/src/fig03_003.cpp.o
-.PHONY : src/fig03_003.cpp.o
+src/fig03_006.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/src/fig03_006.cpp.o
+.PHONY : src/fig03_006.cpp.o
 
-src/fig03_003.i: src/fig03_003.cpp.i
-.PHONY : src/fig03_003.i
+src/fig03_006.i: src/fig03_006.cpp.i
+.PHONY : src/fig03_006.i
 
 # target to preprocess a source file
-src/fig03_003.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/src/fig03_003.cpp.i
-.PHONY : src/fig03_003.cpp.i
+src/fig03_006.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/src/fig03_006.cpp.i
+.PHONY : src/fig03_006.cpp.i
 
-src/fig03_003.s: src/fig03_003.cpp.s
-.PHONY : src/fig03_003.s
+src/fig03_006.s: src/fig03_006.cpp.s
+.PHONY : src/fig03_006.s
 
 # target to generate assembly for a file
-src/fig03_003.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/src/fig03_003.cpp.s
-.PHONY : src/fig03_003.cpp.s
+src/fig03_006.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/unit3.dir/build.make CMakeFiles/unit3.dir/src/fig03_006.cpp.s
+.PHONY : src/fig03_006.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... unit3"
-	@echo "... src/fig03_003.o"
-	@echo "... src/fig03_003.i"
-	@echo "... src/fig03_003.s"
+	@echo "... src/fig03_006.o"
+	@echo "... src/fig03_006.i"
+	@echo "... src/fig03_006.s"
 .PHONY : help
 
 

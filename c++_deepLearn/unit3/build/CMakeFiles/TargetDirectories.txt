@@ -1,3 +1,0 @@
-/home/sam/c++_deepLearn/unit3/build/CMakeFiles/unit3.dir
-/home/sam/c++_deepLearn/unit3/build/CMakeFiles/edit_cache.dir
-/home/sam/c++_deepLearn/unit3/build/CMakeFiles/rebuild_cache.dir

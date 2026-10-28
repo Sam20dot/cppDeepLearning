@@ -1,7 +1,7 @@
 #!/bin/bash
-cd unit3
+cd unit4
 cd build 
 cmake ..
 cmake --build . 
-./unit3
+./Unit4
 
